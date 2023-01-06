@@ -11,4 +11,4 @@
 composer create-project laravel/laravel laravel-api
 ```
 
-<img src="https://marinegeo.github.io/assets/img/MarineGEO_logo.png" />
+<img src="/img/new-laravel-api/created-laravel.png" />
